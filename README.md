@@ -1,3 +1,3 @@
 # style-reset
 
-Simple css reset for use with latest broswers plus IE11
+Simple css reset for use with latest browsers plus IE11
