@@ -4,9 +4,9 @@
 
 html, body, div, article, aside, canvas, figure, figcaption, footer, header,
 main, nav, section, audio, video h1, h2, h3, h4, h5, h6, p, blockquote, pre, a,
-span, abbr, address, cite, code, del, dfn, em, img, ins, kbd, small, strike,
-strong, sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table,
-caption, tbody, tfoot, thead, tr, th, td {
+span, abbr, address, cite, code, del, dfn, em, img, ins, kbd, small, strong,
+sub, sup, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption,
+tbody, tfoot, thead, tr, th, td {
   border: 0;
   font: inherit;
   font-size: 100%;
