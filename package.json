@@ -1,5 +1,5 @@
 {
-  "name": "style-reset",
+  "name": "phlite-style-reset",
   "version": "2.1.0",
   "description": "",
   "main": "style-reset.css",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danhayden/style-reset.git"
+    "url": "git+https://github.com/phlitewebsites/phlite-style-reset.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danhayden/style-reset/issues"
+    "url": "https://github.com/phlitewebsites/phlite-style-reset/issues"
   },
-  "homepage": "https://github.com/danhayden/style-reset#readme",
+  "homepage": "https://github.com/phlitewebsites/phlite-style-reset#readme",
   "devDependencies": {
     "cssnano": "3.5.2",
     "postcss-cli": "2.5.1"
